@@ -16,8 +16,8 @@
                 <div class="title"><a href="{{ route('home') }}">MY FAVARITE BOOK</a></div>
                 <div class="menu">
                     <ul>
-                        <li><a href="{{ route('register_book') }}">登録</a></li>
-                        <li><a href="{{ route('show_books')}}">一覧</a></li>
+                        <li><a href="{{ route('register_book') }}">登録ボタン</a></li>
+                        <li><a href="{{ route('show_books')}}">一覧ボタン</a></li>
                     </ul>                
                 </div>
             </div>
